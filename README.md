@@ -40,7 +40,7 @@ pip install -r requirements.txt
 - Back of Words(BOW)
 - Word2Vec
 
-For both cases model was trained and was getting different results
+For both cases model was trained and were getting different results
 
 ### Modelling
 Type of Machine Leaning Algorithm used - 
